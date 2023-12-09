@@ -173,3 +173,12 @@
   font-weight: 700;
   font-size: 1.5rem;
 }
+/* // modifi// */
+.headerone {
+  background-image: linear-gradient(to right top, #3daa50, #38ae5d, #33b36a, #2fb777, #2dbb83);
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 9999999;
+}
+/* // modifi// */
