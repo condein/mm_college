@@ -16,6 +16,7 @@
 }
 .hero_sec {
   height: 330px;
+  position: relative;
  
   background-color: rgb(189, 130, 91);
   
@@ -54,7 +55,7 @@
   height: 550px;
 }
 .sec_btn {
-  margin-left: 9rem;
+  margin-left: 6rem;
 }
 .one-two {
   text-decoration: underline;
@@ -71,12 +72,12 @@
   background-image: url("Slider.jpeg");
   background-position: center;
   background-size: cover;
- margin-top: 10rem;
+
  
 }
 .middle {
   width: 100%;
-  font-size: 2rem;
+  font-size: 1.3rem;
 }
 
 .text-sec {
@@ -150,7 +151,7 @@
   color: rgb(2, 5, 29);
 }
 .firstonethree {
-  font-size: 2.2rem;
+  font-size: 2rem;
   font-weight: 800;
   text-decoration:underline;
   
@@ -175,10 +176,26 @@
 }
 /* // modifi// */
 .headerone {
+  height: 70px;
   background-image: linear-gradient(to right top, #3daa50, #38ae5d, #33b36a, #2fb777, #2dbb83);
   position: sticky;
   top: 0;
   left: 0;
   z-index: 9999999;
 }
+.wel {
+  margin-top: 5px !important;
+  position: absolute;
+  top: -2.3rem;
+}
+.med{
+  position: absolute;
+  top: 6.4rem;
+}
+.cutton {
+  position: absolute;
+  top: 17rem;
+  left: -2rem;
+}
+
 /* // modifi// */
