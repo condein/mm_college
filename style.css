@@ -1,0 +1,175 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.img {
+  height: 3rem;
+}
+.header {
+  background-image: linear-gradient(to right top, #44eed0, #32e8bc, #28e1a7, #29da90, #32d377);
+  box-shadow: 0 0 10px 3px black;
+  position: sticky !important;
+  top: 0;
+  left: 0;
+  z-index: 9999999999;
+}
+.hero_sec {
+  height: 330px;
+ 
+  background-color: rgb(189, 130, 91);
+  
+}
+
+.sir {
+  height: 500px;
+  margin-top: 20px;
+  
+}
+
+.text h1 {
+  text-align: center;
+  justify-content: start;
+  padding-top: 2rem;
+}
+.text p {
+  text-align: center;
+  font-size: 1.1rem;
+  color: black;
+}
+.text button {
+  margin-left: 9rem;
+}
+.one {
+  color:rgb(12, 61, 63);
+}
+/* ////////////////////first/////////// */
+.sir {
+  margin: auto;
+  width: 100% !important;
+  margin-top: -5px;
+  border: none;
+}
+.sir_img {
+  height: 550px;
+}
+.sec_btn {
+  margin-left: 9rem;
+}
+.one-two {
+  text-decoration: underline;
+}
+.card-body {
+  background-color: rgb(84, 184, 75);
+  z-index: 55;
+}
+/* //////////////pic///////// */
+.pic {
+  position: relative;
+  height: 300px;
+  width: 100%;
+  background-image: url("Slider.jpeg");
+  background-position: center;
+  background-size: cover;
+ margin-top: 10rem;
+ 
+}
+.middle {
+  width: 100%;
+  font-size: 2rem;
+}
+
+.text-sec {
+  height: 80px;
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+  background: #28e1a7;
+  color: rgb(22, 0, 0);
+  font-weight: 800;
+  border-radius: 50px;
+  
+}
+.students {
+  background-image: linear-gradient(to right top, #55c3e9, #0cc5bc, #67bc74, #afa736, #ee813c);
+  margin-top: -21px;
+  position: relative;
+}
+.stu {
+  font-size: 3rem;
+  word-spacing: 2px;
+  letter-spacing: 4px;
+}
+.first-student {
+  height: 230px;
+  width: 40%;
+ margin: 10px;
+ text-align: center;
+ background-image: linear-gradient(to right top, #55c3e9, #0cc5bc, #67bc74, #afa736, #ee813c);
+ margin-top: 10px; 
+}
+.arti {
+  height: 140px;
+  border-radius: 50%;
+  box-shadow: 0 0 12px 10px black;
+ 
+}
+.first-student h2 {
+  font-weight: 600;
+  padding-top: 15px;
+  color: rgb(88, 9, 9);
+}
+.first-student h3 {
+  color: rgb(151, 28, 20);
+  font-weight: 600;
+}
+.main-stu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin-top: 2rem;
+}
+/* ////////////////////// */
+
+.card-one {
+ margin: auto;
+ margin-top: 40px;
+ width: 95% !important;
+}
+.card-two {
+  background: rgb(233, 202, 206);
+}
+.if{
+  font-size: 1.5rem;
+  margin-top: 16px;
+  font-weight: 600;
+}
+.textonetwo {
+  font-size: 1.5rem;
+  color: rgb(2, 5, 29);
+}
+.firstonethree {
+  font-size: 2.2rem;
+  font-weight: 800;
+  text-decoration:underline;
+  
+}
+.courses{
+  background-image: linear-gradient(to left bottom, #4df901, #b3cf00, #e1a100, #f46e00, #ee3c3c);
+}
+.textin {
+  height: 100%;
+  width: 100%;
+  color: white;
+
+  position: absolute;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.671);
+  font-weight: 700;
+}
+.texttext {
+  margin-top: 8rem;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
