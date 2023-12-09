@@ -2,6 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: 'Roboto', sans-serif !important;
 }
 .img {
   height: 3rem;
@@ -15,7 +16,7 @@
   z-index: 9999999999;
 }
 .hero_sec {
-  height: 330px;
+  height: 250px;
   position: relative;
  
   background-color: rgb(189, 130, 91);
@@ -52,7 +53,7 @@
   border: none;
 }
 .sir_img {
-  height: 550px;
+  height: 400px;
 }
 
 .one-two {
@@ -188,7 +189,7 @@
 }
 .med{
   position: absolute;
-  top: 6.4rem;
+  top: 6rem;
 }
 .cutton {
   position: absolute;
